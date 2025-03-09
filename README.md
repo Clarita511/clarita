@@ -1,2 +1,2 @@
-# clarita
-site de reservation
+# Clarita
+ site de reservation
